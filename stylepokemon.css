@@ -1,0 +1,386 @@
+.first{
+    width: 100%;
+    background-color: grey;
+}
+.imgfirst:hover{
+   margin-bottom: 10px;
+}
+.second{
+    background-color: white;
+}
+.col1{
+background-color: gray;
+}
+#col12{
+    border-bottom: 4px solid yellow;
+}
+.col2:hover{
+    background-color: yellow;
+
+}
+#col13{
+    border-bottom: 4px solid green;
+
+}
+.col3:hover{
+    background-color: green;
+
+}
+#col14{
+    border-bottom: 4px solid red;
+
+}
+.col4:hover{
+    background-color: red;
+
+}
+
+#col15{
+    border-bottom: 4px solid brown;
+
+}
+.col5:hover{
+    background-color: brown;
+
+}
+#col16{
+    border-bottom: 4px solid darkblue;
+
+}
+.col6:hover{
+    background-color: darkblue;
+
+}
+#col17{
+    border-bottom: 4px solid lightcoral;
+
+}
+.col7:hover{
+    background-color: lightcoral;
+
+}
+#navbar{
+    position:sticky;
+    top: 0px;
+    width: 100%;
+    background-color:white;
+    box-shadow: 0px 0px 10px gray;
+    /* height: 100px; */
+    /* justify-content: center; */
+    z-index: 1;
+}
+body{
+    /* background-color: rgb(38, 230, 237) !important; */
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg');
+background-size: 100% 100%;
+}
+/* .tabl2div{
+    width: 60%;
+    margin: 0px auto;
+    position:sticky;
+    top: 0px;
+} */
+tabl2div>table2{
+   padding-left: 275px;
+   padding-right: 275px;
+   position: sticky;
+   top: 0px;
+   background-color: aliceblue;
+   z-index: 1;
+   /* text-align: center; */
+
+}
+.card1para{
+    padding: 10px;
+}
+.card1img{
+    width: 800px;
+    height: 450px;
+    border-radius: 10px;
+
+}
+.card1:hover{
+    margin-top:48px;
+    margin-left: 48px;   
+
+}
+.card1{
+    position: static;
+   margin-top:50px;
+   margin-left: 50px;
+    left: 100px;
+    width: 800px;
+    height: 600px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+    display: inline-block;
+}
+.card2para{
+    padding: 10px;
+}
+.card2img{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+.card2:hover{
+    margin-bottom: 48px;
+    margin-left: 48px;
+
+}
+.card2{
+    display: inline-block;
+    position:relative ;
+top: -240px;
+    margin-top: 50px;
+   margin-left: 50px;
+    width: 350px;
+    height: 350px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+.card3para{
+    padding: 10px;
+}
+.card3img{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+.card3:hover{
+    margin-bottom:-48px;
+    margin-left: 48px;
+}
+.card3{
+    display: inline-block;
+    position:relative;
+top: -220px;
+left: 850px;
+    margin-top: -50px;
+   margin-left: 50px;
+    width: 350px;
+    height: 350px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+.card4para{
+    padding: 10px;
+}
+.card4img{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+.card4:hover{
+    margin-bottom: 3px;
+    margin-left: 3px;
+
+}
+.card4{
+    display: inline-block;
+   position: relative;
+   top: 50px;
+   left: -350px;
+    width: 350px;
+    height: 350px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+.card5para{
+    padding: 10px;
+}
+.card5img{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+.card5:hover{
+    margin-bottom: 3px;
+    margin-left: 3px;
+}
+.card5{
+    display: inline-block;
+   position: relative;
+   top: 50px;
+   left: -320px;
+    width: 350px;
+    height: 350px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+.card6para{
+    padding: 10px;
+}
+.card6img{
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+.card6:hover{
+    margin-bottom: 3px;
+    margin-left: 3px;
+
+}
+.card6{
+    display: inline-block;
+   position: relative;
+   top: -200px;
+   left: 900px;
+    width: 300px;
+    height: 250px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+.video{
+    position: relative;
+    top: -120px;
+}
+.th1{
+    position: relative;
+    left: 150px;
+     background-color: darkslategray;
+     width: 300px;
+    height: 500px;
+    /* background-color: lightskyblue; */
+    border-radius: 20px;
+    margin: 20px;
+    
+
+}
+.th1:hover{
+    margin: 18px;
+}
+.th2{
+  
+        position: relative;
+        top: -70px;
+        left: 150px;
+         background-color: darkslategray;
+         width: 300px;
+        height: 500px;
+        /* background-color: lightskyblue; */
+        border-radius: 20px;
+        margin: 20px;
+        
+    
+    }
+    .th2:hover{
+        margin: 18px;
+    }
+    #fontcenter{
+        position: relative;
+        left: 150px;
+    }
+    .th3{
+        position: relative;
+        left: 150px;
+         background-color: darkslategray;
+         width: 300px;
+        height: 500px;
+        /* background-color: lightskyblue; */
+        border-radius: 20px;
+        margin: 20px;
+        
+    
+    }
+    .th3:hover{
+        margin: 18px;
+    }
+#thimg1{
+    border-radius: 10px;
+}
+#thimg2{
+    border-radius: 10px;
+}
+#thimg3{
+    border-radius: 10px;
+}
+
+
+.th4{
+    position: relative;
+    left: 150px;
+    top: -80px;
+     background-color: darkslategray;
+     width: 300px;
+    height: 500px;
+    /* background-color: lightskyblue; */
+    border-radius: 20px;
+    margin: 20px;
+    
+
+}
+.th4:hover{
+    margin: 18px;
+}
+
+.th5{
+    position: relative;
+    left: 150px;
+top: 70px;
+     background-color: darkslategray;
+     width: 300px;
+    height: 500px;
+    /* background-color: lightskyblue; */
+    border-radius: 20px;
+    margin: 20px;
+    
+
+}
+.th5:hover{
+    margin: 18px;
+}
+.th6{
+    position: relative;
+    left: 150px;
+    top: -80px;
+
+ 
+    background-color: darkslategray;
+     width: 300px;
+    height: 500px;
+    /* background-color: lightskyblue; */
+    border-radius: 20px;
+    margin: 20px;
+    
+
+}
+.th6:hover{
+    margin: 18px;
+}
+.bottom{
+    background-color: slategray;
+    color: antiquewhite;
+}
+.bottomth1{
+    border-right: 5px solid black;
+}
+.bottomth2{
+    border-right: 5px solid black;
+    
+}
+.bottomimg{
+position: relative;
+top: -80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
